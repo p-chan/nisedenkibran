@@ -3,7 +3,7 @@ NiseDenkiBran
 
 ![NISE DENKI BRAN](http://i.imgur.com/LuCaEd2.jpg)
 
-LEMRN stack Vagrant box.
+LEMRN stack Vagrant box.  
 Linux, Enginx(Nginx), MySQL, Ruby, Node.js stack.
 
 ## Feature
